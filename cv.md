@@ -22,7 +22,7 @@
 * Fund manager
 * Algorithmic Trader
 
-**The resort [«Ripario Hotel Group»](ripario.com)**
+**The resort [«Ripario Hotel Group»](http://ripario.com/)**
 
 * Head of Sales and Marketing department
 * Manager of Sales and Marketing department
